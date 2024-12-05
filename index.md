@@ -8,7 +8,9 @@
 
 
 
-
+``` javascript
+var myVar = "Meow!"
+```
 
 
 
